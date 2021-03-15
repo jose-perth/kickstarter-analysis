@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project is part of the first weekly challenge for the Data Science Bootcamp. It let us practice and display the skills learned during the first module of the Bootcamp.
+This project is part of the first weekly challenge for the Data Science Bootcamp. It provides an opportunity to practice and display the skills learned during the first module of the Bootcamp.
 
 ### Purpose
 The purpose of the analysis was to provide Louise with further insights on Kickstarter campaigns for *plays* with relation to launch dates and funding goals.
